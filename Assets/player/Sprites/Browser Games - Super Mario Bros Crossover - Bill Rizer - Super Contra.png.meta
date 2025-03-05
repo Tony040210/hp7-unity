@@ -1,0 +1,1338 @@
+fileFormatVersion: 2
+guid: 4bb5ce8e3f0efa54cbdcb39569c20bdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2483523171976060739
+    second: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_0
+  - first:
+      213: -7577461811757378128
+    second: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_1
+  - first:
+      213: 3479363821831727529
+    second: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_2
+  - first:
+      213: 816565957514605894
+    second: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_3
+  - first:
+      213: -3675307124755322281
+    second: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_4
+  - first:
+      213: 956490091783117851
+    second: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_5
+  - first:
+      213: -3628506212770910331
+    second: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_6
+  - first:
+      213: 8999672346914854732
+    second: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 276
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f9519aa2f377220800000000000000
+      internalID: 2483523171976060739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 276
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b51d1b11a277d690800000000000000
+      internalID: -7577461811757378128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 276
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a920a426fe294030800000000000000
+      internalID: 3479363821831727529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 276
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a2f7484afaefcc0800000000000000
+      internalID: -3675307124755322281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 276
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fed7af2d4f4adc0800000000000000
+      internalID: -3628506212770910331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 276
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d52e52844903c3439632dcd10de9073
+      internalID: 2066934261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 247
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b56b1d288f7b408d7d569fdef16e3
+      internalID: 1357803248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 247
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd7c534a3bc2164c9605149a585969a
+      internalID: -414163686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01de5ea968fc02469581f11c3b1938c
+      internalID: -472504295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 218
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1992a69b50deb47b959d0edec06969
+      internalID: -1900900624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 218
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4e698b54871ae47858b0829a577aee
+      internalID: 192004357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 218
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7f811e2595c6940b32eb0ec8678a9e
+      internalID: -1631135832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 218
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11499c02e56e59240b65c9f08db34ad1
+      internalID: 1501290099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 218
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce48170673f361b4daefa412f4632a45
+      internalID: 1979222965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 218
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5714cf557b02243be3bf8f2406db60
+      internalID: 630084715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 189
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3280872e6732a541b2ad7fec156aa08
+      internalID: -1080051340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 189
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552c5572adb34f3478e04f1268ea72bc
+      internalID: -1455988370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 189
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399dff28fa454f94bafd0eed102e8a4e
+      internalID: 966161462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 189
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3910932be1e4c9489809a3dc464677f
+      internalID: -1884269967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 189
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f222ef9624257164eb68edee319296ea
+      internalID: 1561446756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 189
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d5ab3ac07af1b4a952546625d08a35
+      internalID: 423943158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016fec6ad7e67924d82f7e6e889f3c7c
+      internalID: -795642756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_40
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 160
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60364e8927813b4d92358c3693a6621
+      internalID: 1904655375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 160
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b7b7544f1557b4d80c85fd187c6b4b
+      internalID: -1138704418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 160
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6b6d3040be302409bfac843fcd4a9a
+      internalID: 1816803772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_44
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 160
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8ae9e3b3b365d49965995f408c0567
+      internalID: -1773491712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_45
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 160
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d485ad4bfb1c6e46a54cd887841c240
+      internalID: -1480755719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_46
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 160
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a955715dae4ca794aaa869d4286a2b32
+      internalID: -520624824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_47
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 160
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79786336c4fde434a869ce8fbad9fa80
+      internalID: -1371268266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_48
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 160
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd3e993b9b50804a8530e07f3fe1875
+      internalID: 1239315833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_49
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 160
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe32b2fc7a06698498dfa920fda63c08
+      internalID: -2125903418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4dc88ff0c72ff4687345396ab425d4
+      internalID: -1066126820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9af9680ed553944a8c235234c2ef34
+      internalID: 305375880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 131
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12befdb1cf2c7bd4d9034c2e9db95eed
+      internalID: 1920225625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_54
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 131
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408c2135d1867e147bd42ea378495e10
+      internalID: -1375592387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92082e2143c3ae14eafca5f81cfabea7
+      internalID: -1073936282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_60
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 131
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c0351a70e490844aa8fa03a66f7b59
+      internalID: -1189840760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 131
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870dadfec104446468c098a863024a06
+      internalID: -2092242884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0308e8934df8ce24695677e588d627a3
+      internalID: 1186566994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_63
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 102
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5a2788e395aff49b3b50177934ec19
+      internalID: -1118669737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_64
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 102
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9f291fe1e2d1043b4c575a3d35cf3e
+      internalID: 1682728808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_65
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 102
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c0d4b428859ac4b97e28375cf61ce7
+      internalID: -1903448864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_66
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 102
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27da935650f1f9048817918f6eb71c7a
+      internalID: -1557223831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 102
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4f803ffa7eb7344bab97451d22670f
+      internalID: -1030771702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9e596a0eefc8b47b808a9956fc6410
+      internalID: 1609915164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_71
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 73
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8730bd1669afbc3468142d434a88c57a
+      internalID: 881904212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_72
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 73
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11967c2bb37a51b4ca72841b0705fe43
+      internalID: 1994942186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_73
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 73
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc59c9b6dfa99743a5214eaeaa5863c
+      internalID: -456778920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_74
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 73
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a857bab3ebf15c342a8c82d0ee9084d3
+      internalID: -1555695688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 73
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da93befa0d83c104280b8c0fb626a14d
+      internalID: -2100036368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 51b04fbbfd5194f44bdc453c9f9ab9ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_0: 2483523171976060739
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_1: -7577461811757378128
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_10: -1242747224
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_11: 1357803248
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_12: -188956609
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_13: -414163686
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_14: -2056130203
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_15: 416309958
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_16: 2070696062
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_17: -472504295
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_18: -1900900624
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_19: 192004357
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_2: 3479363821831727529
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_20: -1631135832
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_21: 1501290099
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_22: 585263946
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_23: -1050844406
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_24: -545817679
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_25: 1979222965
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_26: 1476345659
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_27: 630084715
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_28: 1979537511
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_29: -1080051340
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_3: 816565957514605894
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_30: -1455988370
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_31: -1777953931
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_32: 2137236520
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_33: 966161462
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_34: -889179518
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_35: -1884269967
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_36: 1561446756
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_37: 423943158
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_38: -646220641
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_39: -795642756
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_4: -3675307124755322281
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_40: 1904655375
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_41: -1138704418
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_42: 1114804531
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_43: 1816803772
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_44: -1773491712
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_45: -1480755719
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_46: -520624824
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_47: -1371268266
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_48: 1239315833
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_49: -2125903418
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_5: 956490091783117851
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_50: -1066126820
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_51: 305375880
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_52: 1920225625
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_53: 105990794
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_54: -1375592387
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_55: -1073936282
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_56: 321790954
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_57: -1042042263
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_58: -1548035782
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_59: -2074652093
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_6: -3628506212770910331
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_60: -1189840760
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_61: -2092242884
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_62: 1186566994
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_63: -1118669737
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_64: 1682728808
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_65: -1903448864
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_66: -1557223831
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_67: -1030771702
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_68: 782423555
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_69: -962472201
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_7: 8999672346914854732
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_70: 1609915164
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_71: 881904212
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_72: 1994942186
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_73: -456778920
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_74: -1555695688
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_75: -2100036368
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_76: 665332744
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_77: -2011230451
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_78: -1692951105
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_79: -1755031204
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_8: 72293096
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_80: -157053325
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_81: -1325150704
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_82: -326749560
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_83: -1728484294
+      Browser Games - Super Mario Bros Crossover - Bill Rizer - Super Contra_9: 2066934261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

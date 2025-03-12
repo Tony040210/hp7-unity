@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 5f, jumpForce = 15f;
-    [SerializeField] private int extraJumpCount = 2;
+    [SerializeField] private int JumpCount = 2;
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private Transform groundCheck;
 
@@ -53,10 +53,10 @@ public class PlayerController : MonoBehaviour
 
         if (isGrounded)
         {
-            jumps = extraJumpCount;
+            jumps = JumpCount;
         }
 
-        if (Input.GetButtonDown("Jump") && (isGrounded || (jumps > 0)))
+        if (Input.GetButtonDown("Jump") && (isGrounded || (jumps - 1 > 0)))
         {
             jumps -= 1;
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);

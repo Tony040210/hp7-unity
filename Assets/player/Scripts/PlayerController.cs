@@ -36,8 +36,8 @@ public class PlayerController : MonoBehaviour
 
         if (isGrounded) rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
 
-        if (moveInput > 0) transform.localScale = new Vector3(1, 1, 1);
-        else if (moveInput < 0) transform.localScale = new Vector3(-1, 1, 1);
+        if (moveInput > 0) transform.localScale = new Vector3(1.53f, 1.53f, 1.53f);
+        else if (moveInput < 0) transform.localScale = new Vector3(-1.53f, 1.53f, 1.53f);
 
         Debug.DrawLine(transform.position, transform.position + new Vector3(rb.linearVelocity.x, rb.linearVelocity.y, 0));
 

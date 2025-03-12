@@ -27,6 +27,8 @@ public class BackGround : MonoBehaviour
     // Hàm cập nhật vị trí background
     void UpdateBackgroundPosition(Vector3 direction)
     {
+
+
         // Cập nhật vị trí sideBg
         sideBg.position = midBg.position + direction * length;
 
